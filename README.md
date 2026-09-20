@@ -6,6 +6,7 @@ There is a "*global*" chat to talk to people "*around the world*"
 The reason I put quotation marks was because it **SHOULD** be global and not local with **websockets**.
 
 Please also give ideas either through email or discord
+
 **Email: hampterrynes11@gmail.com**
 **Discord: hxmpterr**
 
