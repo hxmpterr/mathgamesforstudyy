@@ -1,4 +1,5 @@
 **This is my unblocked games website!**
+# math games for studyy
 
 
 
@@ -19,9 +20,11 @@ All of the screenshots may not be up-to-date and may not be the newest screensho
 
 
 ***Be reminded that if you try and copy this site, you will be facing copyright claim issues and will be reported to GitHub immediately if you try and profit off of mine or other people's work.***
-don't just download it and try and change it to make it your own, you will face the same thing.
+don't just download it and try and change the copyright to make it your own, you will face the same thing.
 
+***people who do that are lazy pieces of shii.***
+don't be those people
 
 Just use the website.
 
-***hxmpterr @2026***
+# ***hxmpterr @2026***
