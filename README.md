@@ -8,6 +8,7 @@ The reason I put quotation marks was because it **SHOULD** be global and not loc
 Please also give ideas either through email or discord
 
 **Email: hampterrynes11@gmail.com**
+
 **Discord: hxmpterr**
 
 All of the screenshots may not be up-to-date and may not be the newest screenshots of the site, but I'll try and keep them mostly up-to-date.
