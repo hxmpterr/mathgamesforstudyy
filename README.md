@@ -6,9 +6,8 @@ There is a "*global*" chat to talk to people "*around the world*"
 The reason I put quotation marks was because it **SHOULD** be global and not local with **websockets**.
 
 Please also give ideas either through email or discord
-
-         ***Email***                          ***Discord***
-hampterrynes11@gmail.com                hxmpterr
+**Email: hampterrynes11@gmail.com**
+**Discord: hxmpterr**
 
 All of the screenshots may not be up-to-date and may not be the newest screenshots of the site, but I'll try and keep them mostly up-to-date.
 
@@ -20,4 +19,4 @@ don't just download it and try and change it to make it your own, you will face 
 
 Just use the website.
 
-hxmpterr @2026
+***hxmpterr @2026***
